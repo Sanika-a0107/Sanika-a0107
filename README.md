@@ -1,33 +1,27 @@
-💫 About Me:
-🪄 I’m currently working on
-Building dashboards, charts, and presentations for coursework; optimizing my LinkedIn profile for data analyst roles.
+# Hi, I'm Sanika Atigre 👋
 
-🧑‍🤝‍🧑 I’m looking to collaborate on
-Data visualization projects using Power BI, Tableau, and Python.
+### Aspiring Data Analyst | SQL | Python | Power BI
 
-🤝 I’m looking for help with
-Landing entry-level Data Analyst roles and improving ATS resume optimization.
+I enjoy analyzing data, identifying patterns, and building dashboards that turn raw data into actionable business insights.
 
-🌱 I’m currently learning
-Google Data Analytics Professional Certificate, Excel pivot tables, slicers, and advanced data cleaning techniques.
+## Technical Skills
+- **SQL:** Joins, aggregations, subqueries
+- **Python:** Pandas, NumPy, data analysis
+- **Visualization:** Power BI, DAX, Excel, Tableau
+- **Analytics:** Data cleaning, exploratory data analysis, KPI reporting
 
-💬 Ask me about
-SQL queries, Power BI dashboards, and data storytelling for business insights.
+## Featured Projects
+- **Customer Churn & Revenue Analysis** — SQL, Python, Power BI
+- **Supply Chain Analysis** — SQL, Python, Power BI
+- **Hospital Management Dashboard** — Power BI, Excel
 
-⚡ Fun fact
-I love turning raw data into actionable insights that tell a story!
-
-🌐 Socials:
-Bluesky [LinkedIn](https://linkedin.com/in/Sanika Atigre) email
-
-💻 Tech Stack:
-R Matplotlib NumPy Pandas MySQL Python
-
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sanika Atigre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Sanika Atigre&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sanika Atigre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=Sanika Atigre&icon=0&color=0)
+## Experience
+- Research Analyst — Leadpin Technologies
+- Data Analyst Intern — Codec Technology (Completed)
+  
+## Certifications
+- [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)]
+- https://learn.microsoft.com/en-us/users/sanikaatigre-5536/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab
+## Connect With Me
+- LinkedIn: [Add your LinkedIn profile URL]
+- GitHub: https://github.com/Sanika-a0107
