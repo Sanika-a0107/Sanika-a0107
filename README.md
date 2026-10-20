@@ -16,7 +16,7 @@ I enjoy analyzing data, identifying patterns, and building dashboards that turn 
 - [Fraud Detection Dashboard](https://github.com/Sanika-a0107/Fraud-Detection-Dashboard) — SQL, Python, Power BI
 - [Healthcare Analytics Dashboard](https://github.com/Sanika-a0107/2.-Healthcare-Analytics-Dashboard) — Power BI, Healthcare Analytics
 - [Advanced SQL & BI Practice](https://github.com/Sanika-a0107/Advanced-SQL-and-BI-Mastery-700-Plus) — SQL, Power BI, Business Scenarios
-
+  
 ## Experience
 - Research Analyst — Leadpin Technologies
 - Data Analyst Intern — Codec Technology (Completed)
