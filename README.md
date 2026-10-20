@@ -21,6 +21,7 @@ I enjoy analyzing data, identifying patterns, and building dashboards that turn 
   
 ## Certifications
 - [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/sanikaatigre-5536/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab)
+  
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sanika-atigre-574849411
 - GitHub: https://github.com/Sanika-a0107
