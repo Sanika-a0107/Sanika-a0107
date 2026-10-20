@@ -11,9 +11,9 @@ I enjoy analyzing data, identifying patterns, and building dashboards that turn 
 - **Analytics:** Data cleaning, exploratory data analysis, KPI reporting
 
 ## Featured Projects
-- **Customer Churn & Revenue Analysis** — SQL, Python, Power BI
-- **Supply Chain Analysis** — SQL, Python, Power BI
-- **Hospital Management Dashboard** — Power BI, Excel
+- Customer Churn & Revenue Analysis — SQL, Python, Power BI
+- Supply Chain Analysis — SQL, Python, Power BI
+- Hospital Management Dashboard — Power BI, Excel
 
 ## Experience
 - Research Analyst — Leadpin Technologies
