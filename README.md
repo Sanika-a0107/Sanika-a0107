@@ -10,12 +10,15 @@ I enjoy analyzing data, identifying patterns, and building dashboards that turn 
 - **Visualization:** Power BI, DAX, Excel, Tableau
 - **Analytics:** Data cleaning, exploratory data analysis, KPI reporting
 
+
 ## Featured Projects
-- [Customer Churn Analysis](https://github.com/Sanika-a0107/Telco-Churn-End-to-End) — SQL, Python, Scikit-learn, Power BI
-- [Supply Chain Analysis](https://github.com/Sanika-a0107/Supply-Chain-Logistics-Optimization-Engine-Python-SQL-) — Python, SQL, Logistics Analytics
+
+- [Customer Churn Analysis](https://github.com/Sanika-a0107/Telco-Churn-End-to-End) — SQL, Python, Power BI
+- [Supply Chain Analysis](https://github.com/Sanika-a0107/Supply-Chain-Logistics-Optimization-Engine-Python-SQL-) — SQL, Python, Power BI
 - [Fraud Detection Dashboard](https://github.com/Sanika-a0107/Fraud-Detection-Dashboard) — SQL, Python, Power BI
-- [Healthcare Analytics Dashboard](https://github.com/Sanika-a0107/2.-Healthcare-Analytics-Dashboard) — Power BI, Healthcare Analytics
-- [Advanced SQL & BI Practice](https://github.com/Sanika-a0107/Advanced-SQL-and-BI-Mastery-700-Plus) — SQL, Power BI, Business Scenarios
+- [Healthcare Analytics Dashboard](https://github.com/Sanika-a0107/2.-Healthcare-Analytics-Dashboard) — Power BI, Excel
+- [Advanced SQL & BI Practice](https://github.com/Sanika-a0107/Advanced-SQL-and-BI-Mastery-700-Plus) — SQL, Power BI
+
   
 ## Experience
 - Research Analyst — Leadpin Technologies
